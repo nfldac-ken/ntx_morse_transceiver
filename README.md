@@ -1,3 +1,15 @@
+## NTX Morse Microbit Transceiver.
+### Makecode for Microbit block code, 3D print files, and supporting documentation.
+
+<img src="images/Microbit%20Morse%203D%20print%20closeup%20640.jpg" width="400">
+
+
+See magazine article for further details.
+___
+
+
+
+
 
 > Open this page at [https://nfldac-ken.github.io/ntx_morse_transceiver/](https://nfldac-ken.github.io/ntx_morse_transceiver/)
 
