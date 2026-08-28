@@ -8,10 +8,11 @@ To see the additional files go to [[https://nfldac-ken.github.io/ntx_morse_trans
 
 
 See magazine article for further details.
+
 ___
 
 
-## To use this project in MakeCode.
+### To use this project in MakeCode.
 
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
@@ -20,6 +21,7 @@ ___
 
 
 Then download to your MicroBit and have fun.
+
 ___
 
 #### Metadata (used for search, rendering)
