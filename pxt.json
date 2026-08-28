@@ -1,5 +1,6 @@
 {
     "name": "NTX_Morse_Transceiver_Github",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
