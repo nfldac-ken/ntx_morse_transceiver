@@ -4,20 +4,15 @@
 <img src="images/Microbit%20Morse%203D%20print%20closeup%20640.jpg" width="400">
 
 
+To see the additional files go to [[https://nfldac-ken.github.io/ntx_morse_transceiver/](https://nfldac-ken.github.io/ntx_morse_transceiver/)
+
+
 See magazine article for further details.
 ___
 
 
+## To use this project in MakeCode.
 
-
-
-> Open this page at [https://nfldac-ken.github.io/ntx_morse_transceiver/](https://nfldac-ken.github.io/ntx_morse_transceiver/)
-
-
-
-## Use this project
-
-To use this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
